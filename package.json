@@ -1,0 +1,33 @@
+{
+  "name": "neotrix",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.11.0",
+    "@emotion/styled": "^11.11.0",
+    "@huggingface/hub": "^0.7.4",
+    "@huggingface/inference": "^2.5.0",
+    "@leap-ai/sdk": "^0.0.119",
+    "@mui/material": "^5.13.0",
+    "@next/font": "13.4.2",
+    "@supabase/auth-helpers-nextjs": "^0.6.1",
+    "@supabase/auth-helpers-react": "^0.3.1",
+    "@types/node": "20.1.5",
+    "@types/react": "18.2.6",
+    "@types/react-dom": "18.2.4",
+    "eslint": "8.40.0",
+    "eslint-config-next": "13.4.2",
+    "next": "13.4.2",
+    "next-seo": "^6.0.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "sass": "^1.62.1",
+    "typescript": "5.0.4"
+  }
+}
